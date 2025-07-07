@@ -1,6 +1,6 @@
-# 💬 React Chat App
+# 💬 Chat App
 
-A modern and scalable chat application built with **React.js**, following a clean and modular architecture inspired by Wanadev Digital's best practices.
+A modern and scalable chat application built with **React.js** .
 
 ## 📁 Project Structure
 
