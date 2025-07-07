@@ -1,12 +1,10 @@
 import React, { FC } from 'react';
-import { ChatMessageWrapper } from './ChatMessage.styled';
+import './ChatMessage.css'
 
 interface ChatMessageProps {}
 
 const ChatMessage: FC<ChatMessageProps> = () => (
- <ChatMessageWrapper data-testid="ChatMessage">
-    ChatMessage Component
- </ChatMessageWrapper>
+  <div className="chat-message">ChatMessage Component</div>
 );
 
 export default ChatMessage;
